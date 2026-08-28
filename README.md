@@ -89,36 +89,6 @@ Fooocus includes several tools for refining and transforming generated or import
 
 ---
 
-## 🎭 Styles & Presets
-
-Fooocus provides predefined styles and presets that can be used to quickly explore different visual directions.
-
-- **🎨 Artistic styles**
-- **📸 Photographic styles**
-- **🌈 Creative styles**
-- **👤 Character-focused generation**
-- **🏞️ Environment generation**
-- **🎬 Cinematic looks**
-- **✨ Custom style combinations**
-
-Presets can help users achieve different visual results without manually configuring every generation parameter.
-
----
-
-## 🧩 LoRA Support
-
-Fooocus supports **LoRA-based workflows**, allowing users to apply additional styles, concepts, and subject-specific adaptations.
-
-- **✨ Style LoRAs**
-- **👤 Character LoRAs**
-- **🎨 Concept LoRAs**
-- **📦 Local LoRA files**
-- **⚙️ Prompt-based LoRA control**
-
-LoRA files can be placed in the appropriate models directory and referenced from prompts when creating images. GGitHub
-
-
----
 
 ## 💻 Platform Support
 
@@ -132,22 +102,6 @@ Fooocus provides local workflows across supported desktop platforms.
 | **🔴 AMD GPUs** | Supported workflows available with additional configuration |
 
 The official project documentation provides separate installation guidance for Windows, Linux, macOS Apple Silicon, and AMD GPU configurations. GGitHub
-
-
----
-
-## 🔒 Offline & Open Source
-
-Fooocus is designed as an **offline, open-source, and free** image generation application.
-
-- **🔒 Local generation**
-- **💾 Local model storage**
-- **📴 Offline workflows**
-- **🆓 Free usage**
-- **📖 Open-source project**
-- **🖥️ Local hardware acceleration**
-
-Fooocus describes itself as a non-commercial offline open-source project. GGitHub
 
 
 ---
